@@ -1,5 +1,5 @@
 {
-    "name": "hardywen/yuntongxun-sms",
+    "name": "cnxiaoma/yuntongxun-sms",
     "description": "yuntongxun sms 云通讯短信",
     "keywords": ["laravel laravel5 sms php"],
     "license": "MIT",
@@ -12,7 +12,7 @@
       ],
       "require": {
           "php": ">=5.5.0",
-          "laravel/framework": "5.1.*"
+          "laravel/framework": "5.2.*"
       },
       "autoload": {
           "psr-0": {
