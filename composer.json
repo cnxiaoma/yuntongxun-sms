@@ -16,7 +16,7 @@
       },
       "autoload": {
           "psr-0": {
-              "Hardywen\\YuntongxunSms": "src/"
+              "cnxiaoma\\YuntongxunSms": "src/"
           }
       },
       "minimum-stability": "stable"
